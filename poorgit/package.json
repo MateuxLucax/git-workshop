@@ -1,0 +1,22 @@
+{
+  "name": "poorgit",
+  "version": "1.0.0",
+  "description": "Git poor implementation",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateuxLucax/git-workshop.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Mateus Lucas Cruz Brandt",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/MateuxLucax/git-workshop/issues"
+  },
+  "homepage": "https://github.com/MateuxLucax/git-workshop#readme"
+}
