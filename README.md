@@ -1,5 +1,7 @@
 # Workshop de Git
 
+[Link para apresentação em Slides](http://mateux.dev/git-workshop)
+
 No mundo atual, o desenvolvimento de software é um esforço colaborativo. Desenvolvedores trabalham juntos para construir software e precisam de ferramentas que os ajudem a gerenciar seu código, rastrear mudanças e colaborar de forma eficaz. O Git é um sistema de controle de versão que auxilia os desenvolvedores a realizar todas essas tarefas. Neste workshop, exploraremos o Git, GitHub e GitFlow, focando em como essas ferramentas são essenciais para controle de versão, colaboração e gestão de fluxo de trabalho em ambientes de desenvolvimento modernos.
 
 ## 1. Uma breve história
